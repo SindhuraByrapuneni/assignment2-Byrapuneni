@@ -10,3 +10,10 @@ A repository is a place where project files are stored for safe keeping
 2. I will book a ticket from Kansas to New York.
 3. In New York my friend will come and pick up.
 
+### Items List
+* clothes
+* creams
+* camera
+* shoes
+
+
