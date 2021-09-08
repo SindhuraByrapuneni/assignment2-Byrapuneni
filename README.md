@@ -36,3 +36,21 @@ The below table represents the varieties of Biriyani.
 
 > "All good things take time."
 >>"Time flies like an arrow; fruit flies like a banana."
+
+
+--------------
+### Code Fencing
+
+An algorithm is a series of instructions telling a computer how to transform a set of facts about the world into useful information.
+
+Source Code:- <https://cp-algorithms.com/><br>
+
+bool isPrime(int x) {
+    for (int d = 2; d * d <= x; d++) {
+        if (x % d == 0)
+            return false;
+    }
+    return true;
+}
+
+Source Code:- <https://cp-algorithms.com/algebra/primality_tests.html><br>
