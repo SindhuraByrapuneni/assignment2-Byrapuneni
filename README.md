@@ -18,3 +18,14 @@ A repository is a place where project files are stored for safe keeping
 
 ![Added an image to About me](Photo/Photo.jpg)
 
+----------------
+### Food Menu
+
+The below table represents the varieties of Biriyani.
+
+|Biriyani Type       |Location      |Cost   |
+|-------------       |--------      |----   |
+|Chicken Biriyani    |Omaha         |$7     |
+|Mutton Biriyani     |Omaha         |$9     |
+|Prawns Biriyani     |Kansas        |$8     |
+|Fish Biriyani       |Kansas        |$7     |
