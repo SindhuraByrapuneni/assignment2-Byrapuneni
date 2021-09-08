@@ -45,8 +45,10 @@ An algorithm is a series of instructions telling a computer how to transform a s
 
 Source Code:- <https://cp-algorithms.com/><br>
 
-bool isPrime(int x) {
-    for (int d = 2; d * d <= x; d++) {
+bool isPrime(int x) 
+{
+    for (int d = 2; d * d <= x; d++) 
+    {
         if (x % d == 0)
             return false;
     }
