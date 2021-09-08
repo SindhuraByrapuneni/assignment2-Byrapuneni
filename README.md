@@ -29,3 +29,10 @@ The below table represents the varieties of Biriyani.
 |Mutton Biriyani     |Omaha         |$9     |
 |Prawns Biriyani     |Kansas        |$8     |
 |Fish Biriyani       |Kansas        |$7     |
+
+
+----------------
+### Pithy Quotes
+
+> "All good things take time."
+>>"Time flies like an arrow; fruit flies like a banana."
